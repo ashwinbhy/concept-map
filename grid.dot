@@ -1,0 +1,25 @@
+strict digraph  {
+	myanmar -> south	 [label="is in"];
+	india -> "economic growth"	 [label="However continues despite"];
+	india -> "23 official languages"	 [label=has];
+	india -> "kyoto protocol"	 [label=signed];
+	india -> capital	 [label="of Parliament is"];
+	india -> economy	 [label=has];
+	india -> government	 [label=has];
+	india -> "indian subcontinent"	 [label="is main part of"];
+	india -> poverty	 [label="suffer from"];
+	"indian ocean" -> south	 [label="is in"];
+	parliament -> india	 [label="capital of"];
+	indians -> hockey	 [label="have excelled in"];
+	"indian armed forces" -> india	 [label="is military of"];
+	"federal government" -> delhi	 [label="is in"];
+	"arabian sea" -> east	 [label="is in"];
+	"arabian sea" -> south	 [label="is in"];
+	"official language" -> india	 [label="is in"];
+	cricket -> india	 [label="is in"];
+	football -> popular	 [label=is];
+	cool -> winter	 [label="is in"];
+	"chief justice" -> "supreme court"	 [label="is head of"];
+	climate -> winter	 [label="cool in"];
+	"upper house" -> states	 [label="Council of"];
+}
